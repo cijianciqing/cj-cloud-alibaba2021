@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>nacos-basic</module>
+        <module>nacos-consumer-primitive</module>
     </modules>
 
     <packaging>pom</packaging>
