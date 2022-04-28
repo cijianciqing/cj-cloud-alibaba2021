@@ -10,6 +10,9 @@
     <modules>
         <module>nacos-basic</module>
         <module>nacos-consumer-primitive</module>
+        <module>nacos-consumer-feign</module>
+        <module>nacos-provider-basic9001</module>
+        <module>nacos-provider-basic9002</module>
     </modules>
 
     <packaging>pom</packaging>

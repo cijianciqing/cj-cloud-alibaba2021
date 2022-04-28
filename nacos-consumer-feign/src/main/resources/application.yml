@@ -1,0 +1,16 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: cj-cloud-alibaba2021-consumer-feign
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 172.16.207.221:8848
+
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: *
